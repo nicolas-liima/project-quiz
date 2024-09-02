@@ -42,7 +42,7 @@
 - [NodeJS](https://nodejs.org/en/download/prebuilt-installer)
 - (optional) [Vs code](https://code.visualstudio.com/download)
 
- <h2 id="Installation">Instalação/Installation</h2>
+ <h2 id="Installation">✔️ Instalação/Installation</h2>
 
  Para começar com o projeto, siga estas etapas de instalação:
 
